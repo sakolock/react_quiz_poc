@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { render } from 'react-dom';
 import QuizCardDetail from './QuizCardDetail';
 import QuestionOption from './QuestionOption';
 

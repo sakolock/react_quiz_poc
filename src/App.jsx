@@ -1,11 +1,8 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import data from './data/finances.json';
-import axios from 'axios';
 import QuizContainer from './components/QuizContainer';
-import QuizCard from './components/QuizCard';
-console.log(data);
+
 class App extends Component {
   state = {
     questions: []

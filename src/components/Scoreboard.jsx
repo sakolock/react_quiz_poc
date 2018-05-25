@@ -1,5 +1,4 @@
 import React from 'react';
-import { render } from 'react-dom';
 
 const Scoreboard = props => (
   <section className="quiz-scoreboard">

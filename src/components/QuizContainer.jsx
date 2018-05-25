@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { render } from 'react-dom';
 import Scoreboard from './Scoreboard';
 import QuizCard from './QuizCard';
 import Chart from './Chart';
