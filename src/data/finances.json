@@ -1,0 +1,63 @@
+{
+    "questions": [{
+        "id": 1,
+        "question": "On average, how much do you spend per month on Dining vs. Groceries?",
+        "options": [{
+            "id": 11,
+            "text": "20% more",
+            "correct": false
+        }, {
+            "id": 12,
+            "text": "10% more",
+            "correct": true
+        }, {
+            "id": 13,
+            "text": "10% less",
+            "correct": false
+        }, {
+            "id": 14,
+            "text": "20% less",
+            "correct": false
+        }]
+    }, {
+        "id": 2,
+        "question": "How much more is your house worth now than when you bought it in 2007?",
+        "options": [{
+            "id": 21,
+            "text": "20% more",
+            "correct": true
+        }, {
+            "id": 22,
+            "text": "10% more",
+            "correct": false
+        }, {
+            "id": 23,
+            "text": "10% less",
+            "correct": false
+        }, {
+            "id": 24,
+            "text": "20% less",
+            "correct": false
+        }]
+    }, {
+        "id": 3,
+        "question": "How much more could you have in your retirement by age 65 if you increased your 401k contribution by $50.00 per month?",
+        "options": [{
+            "id": 31,
+            "text": "$10,000",
+            "correct": false
+        }, {
+            "id": 32,
+            "text": "$45,000",
+            "correct": false
+        }, {
+            "id": 33,
+            "text": "$70,000",
+            "correct": false
+        }, {
+            "id": 34,
+            "text": "$115,000",
+            "correct": true
+        }]
+    }]
+}
