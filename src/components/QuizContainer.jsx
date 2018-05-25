@@ -77,11 +77,4 @@ class QuizContainer extends Component {
   }
 }
 
-// document.addEventListener('DOMContentLoaded', () => {
-//   let node = document.getElementById('root');
-//   let options = node.getAttribute('data-react-qo');
-
-//   render(<QuizContainer options={options} />, node);
-// });
-
 export default QuizContainer;

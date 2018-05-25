@@ -16,7 +16,11 @@
     right: 0;
     width: 200px;
     height: 200px;
+    padding: 10px;
+    background: #0073cf;
+    color: #fff;
     text-align: center;
+    box-sizing: border-box;
 }
 
 .quiz-options {
@@ -70,4 +74,12 @@
 .option-button.option-button-incorrect:focus,
 .option-button.option-button-incorrect:active {
     background: #f00;
+}
+
+dl {
+    font-size: 1.5rem;
+}
+
+dd {
+    margin-left: 0;
 }
