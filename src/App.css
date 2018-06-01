@@ -83,3 +83,24 @@ dl {
 dd {
     margin-left: 0;
 }
+
+ul.flex {
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    justify-items: center;
+}
+
+.flex-item {
+    width: 200px;
+    height: 200px;
+    padding: 1px 10px;
+    margin: auto;
+    box-shadow: 0 0 4px #444;
+    transition: 300ms all ease-in-out;
+}
+
+.flex-item:hover {
+    background: #eee;
+    box-shadow: 1px 1px 6px #999;
+}
